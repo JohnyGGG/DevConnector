@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://joaol:Boris123@cluster0-cq7ym.mongodb.net/devconnectorDB",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "e67b2f9f413ebba3570e",
+    "githubSecret": "f1d235473b509133454bd644b0f6ff87c6227bec"
+  }
